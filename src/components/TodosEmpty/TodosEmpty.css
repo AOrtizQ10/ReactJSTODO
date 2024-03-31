@@ -1,0 +1,8 @@
+.TodosEmpty{
+  margin: 30px auto;
+}
+
+.TodosEmpty > p{
+  margin: 0px auto;
+  text-align: center;
+}
